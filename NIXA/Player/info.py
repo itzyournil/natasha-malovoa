@@ -2,8 +2,8 @@ from NIXA.main import bot
 from pyrogram import filters
 
 
-OWNER = [5513481385]
-sudos = [5119324429]
+OWNER = [5241420800]
+sudos = [5767965445]
 
 @bot.on_message(filters.command("info"))
 def info(_, message):
